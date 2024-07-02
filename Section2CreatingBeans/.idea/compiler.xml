@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="section3-wiring-beans" />
+        <module name="section4-bean-scopes" />
         <module name="section2-creating-beans" />
       </profile>
     </annotationProcessing>

@@ -1,0 +1,14 @@
+
+}
+java:S1854":Remove this useless assignment to local variable "person".(˜¸©Ú8§˜Ä­‡2J$0449bbdf-4029-4a1e-877c-1bb49fbf7cb7
+m	java:S106"+Replace this use of System.out by a logger.(•÷Á¯8¹ãÀ­‡2J$5ae4b028-f877-49cc-8bae-76564afccab4
+m	java:S106"+Replace this use of System.out by a logger.(ìª‡â8ºãÀ­‡2J$416c574e-a13c-41f1-bb02-8cd5cdcbcf40
+r	java:S106"+Replace this use of System.out by a logger.(Ö«¡àûÿÿÿÿ8€²Á­‡2J$fe0ac80a-beeb-47cc-8345-633e99f37d4e
+m	java:S106"+Replace this use of System.out by a logger.(Â¥ÑÈ8áªÃ­‡2J$27d8f021-6409-4c53-98cd-3f17d5101302
+r	java:S106"+Replace this use of System.out by a logger.(ï”ÔŸüÿÿÿÿ8¥‚Ì­‡2J$9fbe1cfe-c1c2-4406-accc-a7d3e8583c0d
+n
+java:S1481"+Remove this unused "person" local variable.(˜¸©Ú8­˜Ä­‡2J$e7847c42-6a7c-4b4f-b9c7-6b50959610d7
+r	java:S106"+Replace this use of System.out by a logger.(¬ì×Àûÿÿÿÿ8¼ÇÍ­‡2J$899bb588-5239-4863-9011-53edc2c294f1
+m	java:S106"+Replace this use of System.out by a logger.(‡¨Û›8·‡Ý­‡2J$ec5dd456-4759-4a01-8eb3-a238433b7bc4
+m	java:S106"+Replace this use of System.out by a logger.(òäÒÏ8·‡Ý­‡2J$2f62fa80-f067-4ffa-9c42-9f48bd728e1e
+r	java:S106"+Replace this use of System.out by a logger.(‚çðÙýÿÿÿÿ8·‡Ý­‡2J$c7d7d8ba-3396-4f72-8c15-0d24a16d979d

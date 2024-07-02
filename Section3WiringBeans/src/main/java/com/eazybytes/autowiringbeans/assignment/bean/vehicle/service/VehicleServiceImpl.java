@@ -1,8 +1,9 @@
-package com.eazybytes.autowiringbeans.assignment.service.vehicle;
+package com.eazybytes.autowiringbeans.assignment.bean.vehicle.service;
 
 import com.eazybytes.autowiringbeans.assignment.bean.speaker.Speaker;
 import com.eazybytes.autowiringbeans.assignment.bean.tyres.Tyres;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
 @Service
@@ -12,8 +13,9 @@ public class VehicleServiceImpl implements VehicleService {
 
 
     @Autowired
-    public VehicleServiceImpl(Speaker speaker) {
+    public VehicleServiceImpl(@Qualifier("sonySpeaker") Speaker speaker, @Qualifier("michelinTyres") Tyres tyres) {
         this.speaker = speaker;
+        this.tyres = tyres;
     }
 
     public void playQuraan() {

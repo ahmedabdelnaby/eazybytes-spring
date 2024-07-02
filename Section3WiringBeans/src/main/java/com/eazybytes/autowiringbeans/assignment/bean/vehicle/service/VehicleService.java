@@ -1,4 +1,4 @@
-package com.eazybytes.autowiringbeans.assignment.service.vehicle;
+package com.eazybytes.autowiringbeans.assignment.bean.vehicle.service;
 
 import com.eazybytes.autowiringbeans.assignment.bean.speaker.Speaker;
 import com.eazybytes.autowiringbeans.assignment.bean.tyres.Tyres;

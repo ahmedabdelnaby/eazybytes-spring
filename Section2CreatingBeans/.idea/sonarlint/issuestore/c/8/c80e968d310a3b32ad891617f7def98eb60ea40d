@@ -1,14 +1,14 @@
 
-ƒ
-java:S1854";Remove this useless assignment to local variable "vehicle".(ΆΫ‘φÿÿÿÿÿ8©¤‘‡2J$91a550db-7681-4376-8ee6-76ed1b4dd071
-„
-java:S1854"<Remove this useless assignment to local variable "vehicles".(®££€ψÿÿÿÿ8κε ‘‡2J$b2c9859a-2aa7-4017-932f-a48352d7aa86
-~
-java:S1854";Remove this useless assignment to local variable "persons".(Ο”ζª8²Ò‘‡2J$518abd63-cae9-4992-90e3-740897bbf7b3
-o
-java:S1481",Remove this unused "persons" local variable.(Ο”ζª8³Ò‘‡2J$74fe7719-74c4-44b3-9ac0-352ab56b7f51
-u
-java:S1481"-Remove this unused "vehicles" local variable.(®££€ψÿÿÿÿ8με ‘‡2J$822abf76-5211-484b-9ed6-fb18d820215c
-t
-java:S1481",Remove this unused "vehicle" local variable.(ΆΫ‘φÿÿÿÿÿ8«¤‘‡2J$4d531b32-b610-4a98-b1b7-41eb1efd7588
-r	java:S106"+Replace this use of System.out by a logger.(¤γ‚³ϋÿÿÿÿ8όο‘‡2J$3b3a0fa8-17cc-4459-9e38-77e09605d245
+|
+java:S1854";Remove this useless assignment to local variable "vehicle".(ΆΫ‘φÿÿÿÿÿJ$a46ce412-5442-4be1-a42c-277dc794d7aa
+}
+java:S1854"<Remove this useless assignment to local variable "vehicles".(®££€ψÿÿÿÿJ$ca52f75d-aa55-4c74-883e-536472f5b4be
+w
+java:S1854";Remove this useless assignment to local variable "persons".(Ο”ζªJ$32589d62-4ac5-4a0a-8ecf-a0b4c1d25938
+h
+java:S1481",Remove this unused "persons" local variable.(Ο”ζªJ$7179edc8-e4b6-490b-bfa2-0f99e74fd6ce
+n
+java:S1481"-Remove this unused "vehicles" local variable.(®££€ψÿÿÿÿJ$0721b215-26e4-4175-946c-c14898cf4faa
+m
+java:S1481",Remove this unused "vehicle" local variable.(ΆΫ‘φÿÿÿÿÿJ$e627f4e1-dbf7-472e-8384-975af550ed8e
+k	java:S106"+Replace this use of System.out by a logger.(¤γ‚³ϋÿÿÿÿJ$505a4d96-210d-411a-a6d8-50b89a555528

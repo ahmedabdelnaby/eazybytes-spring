@@ -1,7 +1,7 @@
 
-›
-java:S1104"SMake speaker a static final constant or non-public and provide accessors if needed.(¤ï·Àÿÿÿÿÿ8˜Ò‡2J$73deb23d-6ee2-4f6e-aa9b-908ebdd5d0bd
 ”
-java:S1104"QMake tyres a static final constant or non-public and provide accessors if needed.(Ã•É†8˜Ò‡2J$d38e27b7-fce4-459f-882c-f5a94d9457b3
-m	java:S106"+Replace this use of System.out by a logger.(Î•¬ñ8•˜Ò‡2J$5ba0ce79-72c5-4392-8cca-ccfad7291a87
-r	java:S106"+Replace this use of System.out by a logger.(±‚·ëøÿÿÿÿ8–˜Ò‡2J$8d239e1c-300b-4130-981a-14093947340f
+java:S1104"SMake speaker a static final constant or non-public and provide accessors if needed.(¤ï·ÀÿÿÿÿÿJ$186a0920-7884-4f10-a58d-2689d5dfeeed
+
+java:S1104"QMake tyres a static final constant or non-public and provide accessors if needed.(Ã•É†J$1cfe583b-0613-4408-babc-db97dde76186
+f	java:S106"+Replace this use of System.out by a logger.(Î•¬ñJ$9a1e502b-3815-491b-8370-c6af8b687989
+k	java:S106"+Replace this use of System.out by a logger.(±‚·ëøÿÿÿÿJ$4338142a-9469-49e5-ba58-35f84044c201

@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component("sonySpeaker")
 @Primary
-public class SonySpeaker implements Speaker {
+public class Sony implements Speaker {
     @Override
     public String makeSound() {
         return "Playing Quraan with sonySpeaker";
